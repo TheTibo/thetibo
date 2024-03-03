@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thibault</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-
+- 🔭 I’m currently working on [VIRTRADE](https://github.com/WildCodeSchool/2023-REMOTE-FR-Q4-NOEMVRIOS-VIRTRADE-P3)
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
 
