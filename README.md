@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **the.tibo1@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/thibault-zhou-thetibo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thibault Zhou" height="30" width="40" /></a>
 </p>
 
